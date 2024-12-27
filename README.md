@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Rahul Gowda R</h1>
-<h3 align="center">Computer Science Student</h3>
+<h3 align="center">A Passionate Computer Science Student</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-gowda-r&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-gowda-r" /> </p>
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **rrahulgowda733@gmail.com**
 
-- ⚡ Fun fact **I am hungry**
+- ⚡ Fun fact **I am hungry to  learn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
