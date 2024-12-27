@@ -1,8 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Rahul Gowda R</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding GIF" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656
-
+<h3 align="center">Computer Science Student</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-gowda-r&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-gowda-r" /> </p>
@@ -40,3 +38,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-gowda-r&show_icons=true&locale=en" alt="rahul-gowda-r" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-gowda-r&" alt="rahul-gowda-r" /></p>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ModhakNatesh/count.svg?"  />
+</div>
