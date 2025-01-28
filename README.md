@@ -49,8 +49,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-gowda-r&show_icons=true&locale=en" alt="rahul-gowda-r" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-gowda-r&" alt="rahul-gowda-r" /></p>
+
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ModhakNatesh/count.svg?"  />
+  
 </div>
