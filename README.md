@@ -77,49 +77,85 @@ Building AI-powered applications, scalable web solutions, and solving real-world
 
 # 🚀 Featured Projects
 
-### 🛒 Shopeeva
-A modern MERN Stack e-commerce platform featuring authentication, shopping cart, responsive UI, and REST APIs.
+### 🛍️ Shopeeva
+
+A full-stack e-commerce platform built with the MERN stack, featuring secure authentication, product browsing, shopping cart, order management, and a responsive user interface powered by RESTful APIs.
 
 **Tech Stack**
 React • Node.js • Express.js • MySQL • Tailwind CSS
 
 ---
 
+### 🚀 VibeBuild AI
+
+An AI-powered web application that transforms natural language prompts into production-ready code using Google Gemini. Features real-time code generation, AI chat, live preview, and an interactive browser-based development environment.
+
+**Tech Stack**
+Next.js • React • Gemini API • Convex • Sandpack • Tailwind CSS
+
+---
+
 ### 🤖 J.A.R.V.I.S AI Assistant
 
-An AI-powered virtual assistant with voice interaction, Gemini API integration, speech recognition, and futuristic UI.
+A conversational AI virtual assistant inspired by J.A.R.V.I.S from Iron Man, supporting text and voice interactions with real-time responses through Google Gemini and a futuristic web interface.
 
 **Tech Stack**
-
-Flask • Gemini API • Web Speech API • Python
+Python • Flask • Gemini API • Web Speech API • HTML • CSS • JavaScript
 
 ---
 
-### 📱 SMS Spam Detection
+### 🛡️ AI SMS Smishing Detector
 
-An offline Flutter application that classifies SMS messages using TensorFlow Lite.
+A Flutter-based mobile application that detects phishing and spam SMS using an offline machine learning model, URL analysis, and trusted sender verification to enhance mobile security.
 
 **Tech Stack**
-
-Flutter • TensorFlow Lite • Machine Learning
+Flutter • Dart • TensorFlow Lite • Scikit-learn • Machine Learning
 
 ---
 
-### ⚽ Player Re-Identification
+### ⚽ SportTrack AI
 
-Computer Vision project for tracking football players across frames using YOLO.
+A computer vision system that detects and tracks players in sports videos using YOLOv11 and centroid-based tracking. Generates annotated videos and structured tracking data for sports analytics.
 
 **Tech Stack**
-
-Python • YOLO • OpenCV
+Python • YOLOv11 • OpenCV • PyTorch
 
 ---
 
 ### 🏥 Hospital Management System
 
-Desktop-based application for managing hospital operations including patients, doctors, appointments, and records.
+A Java desktop application for managing hospital operations, including patient registration, room allocation, employee management, ambulance services, and patient records through an intuitive graphical interface.
+
+**Tech Stack**
+Java • Java Swing • MySQL • JDBC
 
 ---
+
+### 📱 Controlio
+
+A smart employee management application for Android that streamlines attendance, task assignment, performance reviews, messaging, and workforce analytics with role-based access control.
+
+**Tech Stack**
+Kotlin • Jetpack Compose • Firebase • Room Database
+
+---
+
+### 🎉 Karnataka Festival Guide
+
+An AI-powered cultural assistant that helps users explore Karnataka's festivals through interactive conversations, travel recommendations, cultural insights, and bilingual support using Google Gemini.
+
+**Tech Stack**
+React • TypeScript • Vite • Gemini API
+
+---
+
+### 🚗 DriveGuard AI
+
+A real-time driver monitoring system that detects drowsiness, yawning, distraction, and driver presence using computer vision, providing instant alerts to improve road safety.
+
+**Tech Stack**
+Python • OpenCV • MediaPipe • Flask • React
+
 
 # 📂 GitHub Repositories
 
