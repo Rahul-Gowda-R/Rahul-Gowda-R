@@ -191,7 +191,7 @@ Desktop-based application for managing hospital operations including patients, d
 📧 **Email:** **rrahulgowda733@gmail.com**
 
 💼 **LinkedIn:**  
-www.linkedin.com/in/rahul-gowda-7a655225b
+www.linkedin.com/in/rahul-gowda-r
 
 ---
 
